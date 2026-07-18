@@ -2,23 +2,23 @@
 
 ## Level 0
 
-User
+   User
 
-↓
+     ↓
 
 Flask Application
 
-↓
+     ↓
 
 Tableau Dashboard
 
-↓
+     ↓
 
 MySQL Database
 
-↓
+     ↓
 
-Dataset
+  Dataset
 
 ---
 
