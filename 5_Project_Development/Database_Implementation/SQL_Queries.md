@@ -17,10 +17,15 @@ These queries were used to prepare data for Tableau visualizations and generate 
 
 Examples:
 #creating Database
-create database electric_vehicle;   
+
+create database electric_vehicle; 
+
 #using Database
-USE electric_vehicle;      
+
+USE electric_vehicle;   
+
 #creating tables
+
 CREATE TABLE electric_cars (
     Brand VARCHAR(50),
     Model VARCHAR(100),
@@ -37,8 +42,13 @@ CREATE TABLE electric_cars (
     Seats INT,
     PriceEuro INT
 ); 
+
 #retriving data
+
 select *  from evindia;
+
 select * from electriccardata_clean;
+
 select * from electriccardata_clean where powerTrain = 'AWD';
+
 select * from electriccardata_clean where powerTrain = 'AWD' and BodyStyle = 'Sedan';
