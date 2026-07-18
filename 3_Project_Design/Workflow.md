@@ -86,7 +86,7 @@ Publish the project using GitHub and Tableau Public.
 
 Preprocessing
 
-   ↓
+    ↓
 
   MySQL
 
@@ -118,6 +118,6 @@ Dashboard
 
 Deployment
 
-↓
+   ↓
 
 End User
