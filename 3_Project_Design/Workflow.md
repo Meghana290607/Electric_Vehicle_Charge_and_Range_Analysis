@@ -81,23 +81,43 @@ Publish the project using GitHub and Tableau Public.
 # Workflow Summary
 
  Dataset
+ 
     ↓
+    
 Preprocessing
+
     ↓
+    
   MySQL
+  
     ↓
+    
    SQL
+   
     ↓
+    
  Tableau
+ 
     ↓
+    
 Dashboard
+
     ↓
+    
   Story
+  
     ↓
+    
   Flask
+  
     ↓
+    
  Testing
+ 
     ↓
+    
 Deployment
+
     ↓
+    
  End User
