@@ -1,0 +1,4 @@
+select *  from evindia;
+select * from electriccardata_clean;
+select * from electriccardata_clean where powerTrain = 'AWD';
+select * from electriccardata_clean where powerTrain = 'AWD' and BodyStyle = 'Sedan';
