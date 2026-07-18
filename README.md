@@ -173,6 +173,6 @@ Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
 
 **Tableau Story:** https://public.tableau.com/views/ElectricCarAnalytics_17832693608520/StoryofElectriccarsinIndia
 
-**Live Application:** https://electric-vehicle-charge-and-range-pdbf.onrender.com/
+**Live Application:** https://electric-vehicle-charge-and-range-pdbf.onrender.com
 
 **Demo Video:** https://drive.google.com/open?id=1SY4kKsfBFkWQ9G2PlR45QIGdC_KZiN6g&usp=drive_copy
